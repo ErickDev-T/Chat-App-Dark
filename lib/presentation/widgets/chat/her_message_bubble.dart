@@ -16,7 +16,7 @@ class HerMessageBubble extends StatelessWidget {
           child: const Padding(
             padding: EdgeInsets.symmetric(horizontal: 20, vertical: 10),
             child: Text(
-              'Est minim cupidatat velit tempor qui nisi incididunt qui excepteur elit.',
+              'ssssssssssssssssssslit.',
               style: TextStyle(color: Colors.white),
             ),
           ),
